@@ -1,1 +1,1 @@
-1. update the `choco install` commands to auto approve.
+1. add install steps for vscode and other dev tools: python, uv, etc.
