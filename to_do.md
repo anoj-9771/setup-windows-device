@@ -1,0 +1,1 @@
+1. update the `choco install` commands to auto approve.
